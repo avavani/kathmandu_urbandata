@@ -36,7 +36,6 @@ website:
           - analysis/1.ipynb
           - analysis/2.ipynb
           - analysis/3.ipynb
-          - analysis/4.ipynb
 
 format:
   html:

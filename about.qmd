@@ -5,7 +5,7 @@ toc: false
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
 
-<img src="../img/avani.jpeg" alt="Avani Adhikari" style="width: 170px; border-radius: 10px;">
+<img src="img/avani.jpeg" alt="Avani Adhikari" style="width: 170px; border-radius: 10px;">
 
 <div>
   <p><span style="color:red">Hi!</span></p>
