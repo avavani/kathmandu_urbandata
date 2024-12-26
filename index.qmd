@@ -5,8 +5,8 @@ subtitle: "Final Project for MUSA 509: Avani Adhikari"
 
 ## Welcome!
 
-This is the project website.
+This is my project website!
 
 ::: {.callout-important}
-This is going to be where my analysis is.
+You can find my reports by clicking on the pages on the side! This is still a work in progress—please keep an eye out for further updates from me!
 :::

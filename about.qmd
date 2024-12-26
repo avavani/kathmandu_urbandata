@@ -5,17 +5,14 @@ toc: false
 
 <div style="display: flex; gap: 10px; align-items: flex-start;">
 
-<img src="images/pic.png" alt="Avani Adhikari" style="width: 170px; border-radius: 10px;">
+<img src="../img/avani.jpeg" alt="Avani Adhikari" style="width: 170px; border-radius: 10px;">
 
 <div>
-  <p><span style="color:red">Hello everyone</span></p>
-  <p>On this about page, you might want to add more information about yourself, the project, or course. </p>
+  <p><span style="color:red">Hi!</span></p>
+  <p>Thank you for looking at my project website!</p>
 
-  - My name is *Avani* **Adhikari**, a student for this python class. Here is a picture from my favourite game, Hollow Knight.
-  - You can find more information about me on my [personal website](https://www.design.upenn.edu/people/eric-delmelle).
-  - <span style="color:orange">This site is an example site showing how to use Quarto for the final project for MUSA 550, during fall 2024.</span>
-  - <span style="color:gray">Write something about you</span>
-    - <span style="color:red">or about something you like</span>
+  - My name is *Avani* **Adhikari**, a student for this python class. This is a work-in-progress analysis that I will be updating for my portflio.
+  - I definitely bit more than I vould chew :( . A lot of my analysis are still work in progress, and I hope to add more to it!).
 </div>
 
 </div>
